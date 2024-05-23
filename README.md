@@ -3,3 +3,5 @@
 ```
 
 Fungsi ini buat standard input output
+
+## Anjay
